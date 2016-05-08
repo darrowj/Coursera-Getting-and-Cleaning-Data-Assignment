@@ -1,9 +1,9 @@
 #Getting and Cleaning Data Course Project CodeBook
 
 This file describes how run_analysis.R script works.#Data prep
-*Download the data from the follwoing URL -- https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-*Extract the Data using any common utility like 7zip, PKzip, gunzip, etc...
-*Data extracted looks like
+* Download the data from the follwoing URL -- https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+* Extract the Data using any common utility like 7zip, PKzip, gunzip, etc...
+* Data extracted looks like
 	* -UCI HAR Dataset
 		* --test
 			* --subject_test.txt  (I do not see this file referenced in the Readme assuming "Test set.")
